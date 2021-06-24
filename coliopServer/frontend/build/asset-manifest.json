@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a76bb9a3.chunk.css",
+    "main.js": "/static/js/main.2c81cc56.chunk.js",
+    "main.js.map": "/static/js/main.2c81cc56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f42fa1fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f42fa1fd.js.map",
+    "static/js/2.1948464a.chunk.js": "/static/js/2.1948464a.chunk.js",
+    "static/js/2.1948464a.chunk.js.map": "/static/js/2.1948464a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a76bb9a3.chunk.css.map": "/static/css/main.a76bb9a3.chunk.css.map",
+    "static/js/2.1948464a.chunk.js.LICENSE.txt": "/static/js/2.1948464a.chunk.js.LICENSE.txt",
+    "static/media/arrow_back.bdb77edb.svg": "/static/media/arrow_back.bdb77edb.svg",
+    "static/media/arrow_forth.ac148e48.svg": "/static/media/arrow_forth.ac148e48.svg",
+    "static/media/check.2e778cdd.svg": "/static/media/check.2e778cdd.svg",
+    "static/media/coliop-icon.3e01504a.svg": "/static/media/coliop-icon.3e01504a.svg",
+    "static/media/file.8a89222a.svg": "/static/media/file.8a89222a.svg",
+    "static/media/pen.8c7700b8.svg": "/static/media/pen.8c7700b8.svg",
+    "static/media/plus.720432b4.svg": "/static/media/plus.720432b4.svg",
+    "static/media/zoom_dec.88f6da78.svg": "/static/media/zoom_dec.88f6da78.svg",
+    "static/media/zoom_inc.a91a0891.svg": "/static/media/zoom_inc.a91a0891.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f42fa1fd.js",
+    "static/js/2.1948464a.chunk.js",
+    "static/css/main.a76bb9a3.chunk.css",
+    "static/js/main.2c81cc56.chunk.js"
+  ]
+}
